@@ -1,0 +1,10 @@
+{
+  "nextCustomer": 1001,
+  "nextOrder": 1,
+  "nextTopup": 1,
+  "services": [],
+  "customers": [],
+  "orders": [],
+  "topups": [],
+  "transactions": []
+}
